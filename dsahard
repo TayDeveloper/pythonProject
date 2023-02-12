@@ -1,0 +1,13 @@
+valor = 0
+soma = 1
+
+while valor < 15:
+        print(valor)
+        valor = valor + 1
+        if valor > 10:
+                break
+
+  
+
+
+
